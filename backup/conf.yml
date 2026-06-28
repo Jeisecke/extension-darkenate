@@ -12,13 +12,8 @@ info:
 
 admin:
   view: "admin/view.blade.php"
-  controller: "admin/controller.php"
   css: "admin/admin.style.css"
 
 dashboard:
   css: "client/client.style.css"
   wrapper: "client/wrapper.blade.php"
-
-requests:
-  routers:
-    client: "requests/routers/client.php"

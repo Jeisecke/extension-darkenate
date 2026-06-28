@@ -482,15 +482,3 @@ div.iGOcRf {
   border-radius: var(--border-radii);
   background-color: var(--item-color);
 }
-
-
-/* Folder grouping */
-
-.darkenate-folder-header:hover {
-  background: var(--item-secondary-color) !important;
-}
-
-.darkenate-folder-body a[href^="/server/"] {
-  margin-top: 0.25rem;
-  transition: opacity 100ms;
-}
